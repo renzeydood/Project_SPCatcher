@@ -1,0 +1,212 @@
+{
+  "oras": {
+    "seq_walk": {
+      "sequence": [
+        "l",
+        "r"
+      ],
+      "press_delay": [
+        500,
+        500
+      ],
+      "delay": [
+        100,
+        100
+      ]
+    },
+    "seq_try_catch": {
+      "sequence": [
+        "l",
+        "a",
+        "r",
+        "a",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        400,
+        400,
+        500,
+        400,
+        400,
+        400
+      ],
+      "delay": [
+        0,
+        300,
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "seq_caught": {
+      "sequence": [
+        "a",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        400,
+        400,
+        400
+      ],
+      "delay": [
+        300,
+        300,
+        300
+      ]
+    },
+    "seq_save_game": {
+      "sequence": [
+        "x",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        400,
+        400,
+        400
+      ],
+      "delay": [
+        500,
+        1500,
+        300
+      ]
+    },
+    "seq_escape": {
+      "sequence": [
+        "l",
+        "r",
+        "a"
+      ],
+      "press_delay": [
+        400,
+        400,
+        400
+      ],
+      "delay": [
+        100,
+        100,
+        500
+      ]
+    }
+  },
+  "sm": {
+    "seq_walk": {
+      "sequence": [
+        "w",
+        "e"
+      ],
+      "press_delay": [
+        1500,
+        1500
+      ],
+      "delay": [
+        2000,
+        2000
+      ]
+    },
+    "seq_try_catch": {
+      "sequence": [
+        "l",
+        "d",
+        "a",
+        "r",
+        "r",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "delay": [
+        500,
+        500,
+        500,
+        500,
+        500,
+        500,
+        500
+      ]
+    },
+    "seq_loop_catch": {
+      "sequence": [
+        "a",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        50,
+        50,
+        50
+      ],
+      "delay": [
+        500,
+        500,
+        500
+      ]
+    },
+    "seq_caught": {
+      "sequence": [
+        "d",
+        "a",
+        "d",
+        "a"
+      ],
+      "press_delay": [
+        50,
+        50,
+        50
+      ],
+      "delay": [
+        500,
+        500,
+        500
+      ]
+    },
+    "seq_save_game": {
+      "sequence": [
+        "x",
+        "d",
+        "r",
+        "a",
+        "a"
+      ],
+      "press_delay": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "delay": [
+        500,
+        500,
+        500,
+        800,
+        500
+      ]
+    },
+    "seq_escape": {
+      "sequence": [
+        "d",
+        "a"
+      ],
+      "press_delay": [
+        50,
+        50
+      ],
+      "delay": [
+        500,
+        500
+      ]
+    }
+  }
+}

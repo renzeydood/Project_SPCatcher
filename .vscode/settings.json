@@ -1,0 +1,10 @@
+{
+  "C_Cpp.errorSquiggles": "Enabled",
+  "C_Cpp.intelliSenseEngineFallback": "Disabled",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "esp8266fs.esptool.executable": "C:/Users/Renzeydood/AppData/Local/Arduino15/packages/esp32/tools/esptool/2.3.1/esptool.exe",
+  "esp8266fs.mkspiffs.executable": "C:/Users/Renzeydood/AppData/Local/Arduino15/packages/esp32/tools/mkspiffs/0.2.3/mkspiffs.exe",
+  "esp8266fs.preferencesPath": "C:/Users/Renzeydood/AppData/Local/Arduino15",
+  "editor.formatOnSave": false,
+  
+}

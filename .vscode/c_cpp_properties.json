@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Renzeydood\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Renzeydood\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\**",
+                "${workspaceRoot}",
+                "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Users\\Renzeydood\\Workspaces\\Arduino\\libraries"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\Program Files\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Users\\Renzeydood\\Workspaces\\Arduino\\libraries"
+                ],
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}

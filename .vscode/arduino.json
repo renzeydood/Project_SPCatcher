@@ -1,0 +1,7 @@
+{
+    "board": "esp8266:esp8266:d1_mini",
+    "port": "COM8",
+    "sketch": "spcatcher_mcu.ino",
+    "output": "../arduino_temp",
+    "configuration": "CpuFrequency=80,FlashSize=4M1M,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,UploadSpeed=921600"
+}
